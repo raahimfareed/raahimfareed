@@ -75,6 +75,8 @@ class Me:
         print("Hello World!")
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raahimfareed)](https://github.com/raahimfareed/github-readme-stats)
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/raahimfareed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raahimfareed" /></a></p><br><br>
 
