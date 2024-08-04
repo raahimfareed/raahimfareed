@@ -32,7 +32,6 @@ class Me:
             "PHP",
             "C++",
             "Python",
-            "Rust",
             "HTML",
             "CSS",
             "Bash"
@@ -46,12 +45,10 @@ class Me:
             ],
             "Backend": [
                 "Laravel",
-                "Tauri",
                 "Flask",
             ],
             "Game Development": [
-                "SDL2",
-                "PyGame"
+                "Unity",
             ],
             "Databases": [
                 "MySQL",
@@ -62,7 +59,6 @@ class Me:
                 "Git"
             ],
             "Other": [
-                "Heroku",
                 "Arduino"
             ]
         }
