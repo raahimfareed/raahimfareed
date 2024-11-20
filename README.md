@@ -1,5 +1,5 @@
 # Hello There
-I'm Raahim, you're friendly neighborhood ~~spiderman~~ software engineer. I was also bitten by a spider, that spider was delulu and thus I got into coding after that.
+I'm Raahim, your friendly neighborhood ~~spiderman~~ software engineer. I was also bitten by a spider, that spider was delulu and thus I got into coding after that.
 
 
 Feel free to browse through my repositories
