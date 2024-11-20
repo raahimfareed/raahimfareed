@@ -6,7 +6,7 @@ Feel free to browse through my repositories
 
 
 ## Want to get in touch?
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/raahimfareed/) @raahimfareed
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />](https://linkedin.com/in/raahimfareed/) @raahimfareed
 
-[![Portfolio](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg)](https://raahimfareed.com) raahimfareed.com
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" alt="Portfolio" />](https://raahimfareed.com) raahimfareed.com
 
