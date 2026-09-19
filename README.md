@@ -1,4 +1,7 @@
 # Hello There
+
+I've shifted to forgejo: https://git.raahimfareed.com/raahim/
+
 I'm Raahim, your friendly neighborhood ~~spiderman~~ software engineer. I was also bitten by a spider, that spider was delulu and thus I got into coding after that.
 
 
